@@ -1,4 +1,6 @@
-# Suraia Afroz Maria
+# Hi there 👋, I'm Suraia Afroz Maria  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Instructor+%7C+Researcher;Computer+Vision+%7C+Deep+Learning+%7C+Robotics;Passionate+about+AI+%26+Autonomous+Systems)](https://git.io/typing-svg)  
 
 👩‍💻 **Instructor at Creative IT Institute**  
 🎓 CS Graduate, United International University, Dhaka, Bangladesh  
