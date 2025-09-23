@@ -10,7 +10,7 @@
 
 ## About Me  
 
-Hello! I'm Suraia Afroz Maria, a passionate computer science graduate with a keen interest in computer vision, deep learning, bioinformatics, and robotics. My current focus lies in developing autonomous systems for underwater exploration. I am currently working as an Instructor at Creative IT Institute.  
+Hello! I'm Suraia Afroz Maria, a passionate computer science graduate with a keen interest in computer vision, deep learning, bioinformatics, and robotics. My current focus lies in developing autonomous systems for underwater exploration. I am currently working as a Research Assistant at United International University.  
 
 When I'm not working, you’ll find me playing badminton, taking long walks, or watching movies.  
 
@@ -38,7 +38,8 @@ When I'm not working, you’ll find me playing badminton, taking long walks, or 
 - [X (Twitter)](https://x.com/AfrozMaria1)  
 - [Personal Website](https://suraiaafrozmaria.github.io)  
 - [Google Scholar](https://scholar.google.com/citations?user=sC8TIuEAAAAJ&hl=en)  
-- [ResearchGate](https://www.researchgate.net/profile/Suraia-Afroz-Maria?ev=hdr_xprf)  
+- [ResearchGate](https://www.researchgate.net/profile/Suraia-Afroz-Maria?ev=hdr_xprf)
+- [Website](https://suraiaafrozmaria.github.io/) 
 
 ---
 
