@@ -4,7 +4,7 @@
 
 👩‍💻 **Research Assistant**  
 🎓 CS Graduate, United International University, Dhaka, Bangladesh  
-🔬 Seeking PhD Position  
+🔬 Seeking MSc Position  
 
 ---
 
