@@ -39,7 +39,6 @@ When I'm not working, you’ll find me playing badminton, taking long walks, or 
 - [Personal Website](https://suraiaafrozmaria.github.io)  
 - [Google Scholar](https://scholar.google.com/citations?user=sC8TIuEAAAAJ&hl=en)  
 - [ResearchGate](https://www.researchgate.net/profile/Suraia-Afroz-Maria?ev=hdr_xprf)
-- [Website](https://suraiaafrozmaria.github.io/) 
 
 ---
 
