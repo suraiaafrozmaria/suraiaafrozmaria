@@ -10,8 +10,7 @@
 
 ## About Me  
 
-Hello! I'm Suraia Afroz Maria, a passionate computer science graduate with a keen interest in computer vision, deep learning, bioinformatics, and robotics. My current focus lies in developing autonomous systems for underwater exploration. I am currently working as a Research Assistant at United International University.  
-
+Hello! I'm Suraia Afroz Maria, a passionate computer science graduate with a keen interest in computer vision, deep learning, bioinformatics, and robotics. My current focus lies in developing autonomous systems for underwater exploration.
 When I'm not working, you’ll find me playing badminton, taking long walks, or watching movies.  
 
 ---
